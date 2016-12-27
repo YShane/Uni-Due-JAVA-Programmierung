@@ -2,4 +2,4 @@
 
 Java Course answers for a few semesters. University of Duisburg-Essen, Germany.
 
-Miniprojekt sowie Übung Anworte.
+Lösungen zu Miniprojekten als auch Übungen.
